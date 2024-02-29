@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware_Managment", "Hardware_Managment\Hardware_Managment.csproj", "{0889AA37-5CC2-4E99-92C2-C445486D050E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0889AA37-5CC2-4E99-92C2-C445486D050E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0889AA37-5CC2-4E99-92C2-C445486D050E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0889AA37-5CC2-4E99-92C2-C445486D050E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0889AA37-5CC2-4E99-92C2-C445486D050E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0715BACD-FD59-42F1-BB7A-58835F721D95}
+	EndGlobalSection
+EndGlobal
